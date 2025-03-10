@@ -1,0 +1,7 @@
+/* Estilos para carrusel */
+.carrusel-container {
+    justify-content: center;
+    max-width: 800px; /* Ajusta el ancho del contenedor */
+    margin: 20px auto; /* Centra el contenedor horizontalmente */
+    padding: 10px; /* Espacio interno */
+}
