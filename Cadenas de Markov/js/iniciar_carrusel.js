@@ -1,8 +1,8 @@
 // Lista de imágenes para cada tarjeta
 const images = [
-    ["img/proceso_estocastico.jpg",
+    ["Cadenas de Markov/img/proceso_estocastico.jpg",
     "img/cadena_markov.jpg",
-    "img/propiedad_markov.jpg",
+    "Cadenas de Markov/img/propiedad_markov.jpg",
     "img/probabilidad_llegar_primera_vez_n_pasos.jpg",
     "img/probabilidad_transicion.jpg",
     "img/probabilidad_transicion_n_pasos.jpg",
